@@ -46,7 +46,7 @@ const Header = () => {
                     <HambugerMenu/>
             </nav>
             <a href='#signup' className='button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block'>
-                New Account
+                Nueva Cuenta
             </a>
             <Button className='hidden lg:flex' href='#login'>
                 Sign In
